@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" modified="2021-03-24T06:26:38.621Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="8sxS4qzvXs_SXLJKuVWX" version="14.4.4" type="github">
+  <diagram id="VvX6Zku8bZ4wtT6LTTku" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gGHttt-Du8O3Mw2iP0_4-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="80" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gGHttt-Du8O3Mw2iP0_4-2" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="200" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gGHttt-Du8O3Mw2iP0_4-3" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="gGHttt-Du8O3Mw2iP0_4-1" target="gGHttt-Du8O3Mw2iP0_4-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="190" as="sourcePoint" />
+            <mxPoint x="430" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gGHttt-Du8O3Mw2iP0_4-4" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gGHttt-Du8O3Mw2iP0_4-2" target="gGHttt-Du8O3Mw2iP0_4-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="290" as="sourcePoint" />
+            <mxPoint x="520.7106781186548" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="240" />
+              <mxPoint x="520" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gGHttt-Du8O3Mw2iP0_4-5" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gGHttt-Du8O3Mw2iP0_4-2" target="gGHttt-Du8O3Mw2iP0_4-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="424" y="150" as="sourcePoint" />
+            <mxPoint x="414" y="340" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gGHttt-Du8O3Mw2iP0_4-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="340" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gGHttt-Du8O3Mw2iP0_4-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="480" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gGHttt-Du8O3Mw2iP0_4-11" value="Klikkaa &quot;klikkaa&quot; nappia, jotta sovellus arpoo viikon ruokalistan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="324" y="100" width="156" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gGHttt-Du8O3Mw2iP0_4-13" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="gGHttt-Du8O3Mw2iP0_4-6" target="gGHttt-Du8O3Mw2iP0_4-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="290" as="sourcePoint" />
+            <mxPoint x="410" y="350" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gGHttt-Du8O3Mw2iP0_4-14" value="Onko sivulla 5 ateriaa?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gGHttt-Du8O3Mw2iP0_4-15" value="Klikkaa &quot;kauppalista&quot; nappia, jotta näet mitä tarvitsee ostaa kaupasta, jotta saa ateriat tehtyä" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gGHttt-Du8O3Mw2iP0_4-16" value="Ei" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="220" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gGHttt-Du8O3Mw2iP0_4-17" value="Kyllä" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="400" y="300" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gGHttt-Du8O3Mw2iP0_4-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="gGHttt-Du8O3Mw2iP0_4-15" target="gGHttt-Du8O3Mw2iP0_4-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gGHttt-Du8O3Mw2iP0_4-20" value="Klikkaa &quot;jaa kauppalista&quot; nappia kopioidaksesi kauppalistan tai jakaaksesi listan haluamallasi sovelluksella eteenpäin" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="330" y="485" width="140" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
